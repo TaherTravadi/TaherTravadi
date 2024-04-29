@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaherTravadi
 - 👀 I’m interested in learning new technology 
-- 🌱 I’m currently learning python programming 
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can  reach me at tahertravadi007@gmail.com
 
